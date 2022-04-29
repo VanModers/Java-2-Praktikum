@@ -1,0 +1,766 @@
+Computeranimation|CMAN-I17|BI|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|7,5|Klausur 1,5h oder mündliche Prüfung|M. Rauschenberger
+Computeranimation|B. Arp|4
+Praktikum Computeranimation|B. Arp|2
+
+Software-Qualitätsmanagement|SWQM-I17|BI|6|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|N. Streekmann
+Software-Qualitätssicherung|N. Streekmann|2
+Praktikum Software-Qualitätssicherung|N. Streekmann|2
+
+Interdisziplinäres Arbeiten|IARB-I17|BI|WPM|Wahlpflichtmodul|2,5|Studienarbeit|M. Krüger-Basener
+Neue Technik-Horizonte|M. Krüger-Basener|2
+
+Mikrowellenmesstechnik|MWMT-I17|BI|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder Klausur 1 h|H.-F. Harms
+Mikrowellenmesstechnik|J. Wiebe (LB)|2
+
+MATLAB Seminar||BI|WPM|Wahlpflichtmodul|2,5|Studienarbeit|G. Kane
+MATLAB Seminar|G. Kane|2
+
+Data Science|DASC-I17|BI|5|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|T. Schmidt
+Data Science|T. Schmidt|3
+Praktikum Data Science|T. Schmidt|1
+
+Kommunikationssysteme|KOSY-I17|BI|WPM|Wahlpflichtmodul|5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Kommunikationssysteme|T. Büscher|2
+Praktikum Kommunikationssysteme|H.-F. Harms|2
+
+Betriebssysteme|BTRS-I17|BI|4|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|C. Link
+Betriebssysteme|C. Link|2
+Praktikum Betriebssysteme|C. Link|2
+
+Marketing für Ingenieure|MRKT-I17|BI|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Marketing für Ingenieure|L. Jänchen|2
+Praktikum Marketing für Ingenieure|L. Jänchen|2
+
+Projektgruppe|PRGR-I17|BI|5|Pflichtmodul|10|Projektbericht|Studiengangssprecher
+Projektseminar|Prüfungsbefugte laut BPO-A|2
+Einführung in das wissenschaftliche Arbeiten|Prüfungsbefugte laut BPO-A|1
+
+Theoretische Informatik|THIN-I17|BI|2|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|J. Mäkiö
+Theoretische Informatik 1|J. Mäkiö|2
+Theoretische Informatik 2|J. Mäkiö|1
+Praktikum Theoretische Informatik 2|J. Mäkiö|1
+
+Gerätetreiberentwicklung in Linux||BI|WPM|Wahlpflichtmodul|2,5|Kursarbeit|I. Herz
+Gerätetreiberentwicklung in Linux|I. Herz|2
+
+Computergrafik|COGR-I17|BI|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|7,5|Klausur 1,5 h oder mündliche Prüfung|I. Schebesta
+Computergrafik|L. Pastoor (LB)|4
+Praktikum Computergrafik|L. Pastoor (LB)|2
+
+Systemprogrammierung|SPRG-I17|BI|WPM|Wahlpflichtmodul|5|Studienarbeit oder mündliche Prüfung|C. Link
+Systemprogrammierung|C. Link|4
+
+Recht und Datenschutz|REDA-I17|BI|6|Pflichtmodul|5|Klausur 1,5 h oder Studienarbeit|M. Schiemann-Lillie
+Recht und Datenschutz|C. Voss (LB)|3
+Praktikum Recht und Datenschutz|C. Voss (LB)|1
+
+Softwaresicherheit|SWSE-I17|BI|WPM|Wahlpflichtmodul Zertifikat IT-Sicherheit|5|Kursarbeit oder Klausur 1,5h|C. Link
+Softwaresicherheit|C. Link|4
+
+Hochfrequenztechnik|HFTE-I17|BI|WPM|Wahlpflichtmodul|5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Hochfrequenztechnik|H.-F. Harms|2
+Praktikum Hochfrequenztechnik|H.-F. Harms|2
+
+iOS-Programmierung|IPRG-I17|BI|WPM|Wahlpflichtmodul|5|Mündliche Prüfung oder Erstellung und Dokumentation von Rechnerprogrammen|G. J. Veltink
+iOS-Programmierung|G. J. Veltink|2
+Praktikum iOS-Programmierung|G. J. Veltink|2
+
+Hardwareentwurf mit VHDL|VHDL-I17|BI|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Test am Rechner oder mündliche Prüfung|D. Rabe
+Hardwareentwurf mit VHDL|D. Rabe|2
+Praktikum Hardwareentwurf mit VHDL|D. Rabe|2
+
+Hardwarenahe Programmierung|HNPR-I17|BI|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|C. Koch
+Hardwarenahe Programmierung|C. Koch|2
+Praktikum Hardwarenahe Programmierung|C. Koch|2
+
+Java 2|JAV2-I17|BI|2|Pflichtmodul|5|Klausur 1,5 h|F. Rump
+Java 2|F. Rump|2
+Praktikum Java 2|F. Rump|2
+
+Kommunikation in Marketing und Vertrieb|KOMV-I17|BI|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|mündliche Prüfung oder Kursarbeit|L. Jänchen
+Kommunikation in Marketing und Vertrieb|L. Jänchen|4
+
+Vertriebsprozesse|VTPR-I17|BI|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Vertriebsprozesse|L. Jänchen|2
+Praktikum Vertriebsprozesse|L. Jänchen|2
+
+Internet-Technologien|INTE-I17|BI|4|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|F. Rump
+Internet-Technologien|F. Rump|2
+Praktikum Internet-Technologien|F. Rump|2
+
+Mathematik 3|MAT3-I17|BI|3|Pflichtmodul|7,5|Klausur 1,5 h|J. Kittel
+Mathematik 3|J. Kittel|4
+Übung Mathematik 3|J. Kittel|2
+
+HW/SW Codesign|HWSW-I17|BI|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Klausur 1,5h oder mündliche Prüfung oder Studienarbeit|C. Koch
+HW/SW-Codesign|C. Koch|2
+Praktikum HW/SW-Codesign|C. Koch|2
+
+Mathematik 1|MAT1-I17|BI|1|Pflichtmodul|7,5|Klausur 1,5 h|G. von Cölln
+Mathematik 1|G. von Cölln|4
+Übung Mathematik 1|G. von Cölln|2
+
+Antennen und Wellenausbreitung|ANWE-I17|BI|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Antennen und Wellenausbreitung|H.-F. Harms|2
+
+Elektroakustik|ELAK-I17|BI|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder  Klausur 1 h|H.-F. Harms
+Elektroakustik|S. Buss-Eertmoed (LB)|2
+
+Betriebswirtschaft|BWIR-I17|BI|4|Pflichtmodul|5|Klausur 1,5 h oder Studienarbeit|L. Jänchen
+Betriebswirtschaft|L. Jänchen|4
+
+Echtzeitdatenverarbeitung|EZDV-I17|BI|5|Pflichtmodul|5|mündliche Prüfung|A. W. Colombo
+Echtzeitdatenverarbeitung|A. W. Colombo|2
+Praktikum Echtzeitdatenverarbeitung|M. Wermann|2
+
+Englisch||BI|WPM|Wahlpflichtmodul|5|Klausur 1h|M. Parks
+Englisch|M. Parks|2
+
+Mikrocomputertechnik|MCTE-I17|BI|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Klausur 1,5 h|G. von Cölln
+Mikrocomputertechnik|G. von Cölln|2
+Praktikum Mikrocomputertechnik|G. von Cölln|2
+
+Digitaltechnik für Informatik|DTFI-I17|BI|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Klausur 1,5 h oder mündliche Prüfung|D. Rabe
+Digitaltechnik für Informatik|D. Rabe|4
+Praktikum Digitaltechnik für Informatik|D. Rabe|1
+
+Einführung in die Informatik|EINF-I17|BI|1|Pflichtmodul|2,5|Klausur 1,5 h|D. Rabe
+Einführung in die Informatik|D. Rabe|2
+
+Softwareprojektmanagement|SWPM-I17|BI|4|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|M. Krüger-Basener
+Softwareprojektmanagement|M. Krüger-Basener, T. Schmidt|2
+Praktikum Softwareprojektmanagement|M. Krüger-Basener, T. Schmidt|2
+
+Parallele und verteilte Systeme|PVSY-I17|BI|6|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|G. J. Veltink
+Parallele und verteilte Systeme|G. J. Veltink|3
+Praktikum Parallele und verteilte Systeme|G. J. Veltink|1
+
+Arbeitstechniken|ARBT-I17|BI|1|Pflichtmodul|5|Hausarbeit oder Projektbericht oder Klausur 1,5 h|M. Krüger-Basener
+Arbeitstechniken|M. Krüger-Basener|2
+Praktikum Arbeitstechniken|M. Krüger-Basener|2
+
+Kalkulation und Teamarbeit|KATE-I17|BI|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Kalkulation und Angebotserstellung|L. Jänchen|2
+Teamarbeit und angewandtes Projektmanagement|L. Jänchen|2
+
+Mensch-Computer-Kommunikation|MCKM-I17|BI|1|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|T. Pfeiffer
+Mensch-Computer-Kommunikation|T. Pfeiffer|2
+Praktikum Mensch-Computer-Kommunikation|T. Pfeiffer|2
+
+Algorithmen und Datenstrukturen|ALGO-I17|BI|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|N. Streekmann
+Algorithmen und Datenstrukturen|N. Streekmann|2
+Praktikum Algorithmen und Datenstrukturen|N. Streekmann|2
+
+Hardwaregrundlagen|HWGL-I17|BI|1|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|M. Masur
+Hardwaregrundlagen|M. Masur|3
+Praktikum Hardwaregrundlagen|M. Masur|1
+
+Digitale Fotografie|DIFO-I17|BI|WPM|Wahlpflichtmodul|2,5|Kursarbeit|C. Koch
+Digitale Fotografie|E. Bühler (LB)|2
+
+Produktion Digitaler Medien|PRDM-I17|BI|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|5|Mündliche Präsentation und Video-Dokumentation|M. Rauschenberger
+Produktion digitaler Medien|B. Arp|4
+
+Visuelle Effekte|VIEF-I17|BI|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|5|Studienarbeit|I. Schebesta
+Visuelle Effekte|B. Arp|4
+
+Bachelorarbeit|BAAR-I17|BI|7|Pflichtmodul|12|Bachelorarbeit mit Kolloquium|Studiengangssprecher
+Bachelorarbeit mit Kolloquium|Prüfungsbefugte laut BPO-A|0
+
+Elektromagnetische Verträglichkeit|EMVE-I17|BI|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Elektromagnetische Verträglichkeit|H.-F. Harms|2
+
+Angriffsszenarien und Gegenmaßnahmen|ANGM-I17|BI|WPM|Wahlpflichtmodul Zertifikat IT-Sicherheit|5|Klausur 1,5h oder mündliche Prüfung oder Kursarbeit.|P. Felke
+Angriffsszenarien und Gegenmaßnahmen|P. Felke|2
+Praktikum Angriffsszenarien und Gegenmaßnahmen|P. Felke|2
+
+Statistik|STAT-I17|BI|WPM|Wahlpflichtmodul|5|mündliche Prüfung oder Kursarbeit|M. Schiemann-Lillie
+Statistik|M. Schiemann-Lillie (LB)|2
+Praktikum Statistik|M. Schiemann-Lillie (LB)|2
+
+Autonome Systeme|AUSY-I17|BI|WPM|Wahlpflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung oder Studienarbeit|C. Koch
+Autonome Systeme|C. Koch|4
+
+Praxisphase|PRAX-I17|BI|7|Pflichtmodul|18|Projektbericht|Studiengangssprecher
+Praxisarbeit|Prüfungsbefugte laut BPO-A|0
+Praxisseminar|Prüfungsbefugte laut BPO-A|1
+
+Rechnernetze|RNTZ-I17|BI|2|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|D. Kutscher
+Rechnernetze|D. Kutscher|3
+Praktikum Rechnernetze|D. Kutscher|1
+
+Grundlagen der IT-Sicherheit|GRSE-I17|BI|3|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|P. Felke
+Grundlagen der IT-Sicherheit|P. Felke|2
+Praktikum Grundlagen der IT-Sicherheit|P. Felke|2
+
+Kryptologie|KRYP-I17|BI|WPM|Wahlpflichtmodul Zertifikat IT-Sicherheit|5|Klausur 1,5 h oder oder mündliche Prüfung oder Kursarbeit|P. Felke
+Kryptologie|P. Felke|2
+Übung Kryptologie|P. Felke|2
+
+Rechnerarchitekturen|RARC-I17|BI|4|Pflichtmodul|5|Klausur 1,5 h|G. von Cölln
+Rechnerarchitekturen|G. von Cölln|4
+
+Modellierung|MODL-I17|BI|2|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|N. Streekmann
+Modellierung|N. Streekmann|2
+Praktikum Modellierung|N. Streekmann|2
+
+Spezielle Themen der Nachrichtentechnik|STNT-I17|BI|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Spezielle Themen der Nachrichtentechnik|H.-F. Harms|2
+
+Datenbanken|DBMS-I17|BI|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|F. Rump
+Datenbanken|F. Rump|3
+Praktikum Datenbanken|F. Rump|1
+
+Java 1|JAV1-I17|BI|1|Pflichtmodul|5|Klausur 1,5h|J. Mäkiö
+Java 1|J. Mäkiö|2
+Praktikum Java 1|J. Mäkiö|2
+
+Fotografie und Bildgestaltung|FOBI-I17|BI|WPM|Wahlpflichtmodul|5|Kursarbeit|C. Koch
+Fotografie und Bildgestaltung|E. Bühler|4
+
+Projektarbeit|PROJ-I17|BI|6|Pflichtmodul|5|Projektbericht|Studiengangssprecher
+Projektarbeit|Prüfungsbefugte laut BPO-A|0
+
+Drahtlose Sensortechnik|DSVA-I17|BI|WPM|Wahlpflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|G. von Cölln
+Drahtlose Sensortechnik|G. von Cölln|2
+Praktikum Drahtlose Sensortechnik|G. von Cölln|2
+
+C/C++|CCPP-I17|BI|2|Pflichtmodul|5|Klausur 1,5 h oder Erstellung und Dokumentation von Rechnerprogrammen|C. Link
+C/C++|C. Link|2
+Praktikum C/C++|C. Link|2
+
+Spezielle Themen der Informatik|STIN-I17|BI|WPM|Wahlpflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|Studiengangssprecher
+Spezielle Themen der Informatik|Lehrende der Abteilung E+I|4
+
+Elektrokonstruktion mittels EPLAN|ELKO-I17|BI|WPM|Wahlpflichtmodul|2,5|Klausur 1,5 h|H.-F. Harms
+Elektrokonstruktion mittels EPLAN|K. Müller|2
+
+Einführung in die Simulation elektrischer Schaltungen|SIES-I17|BI|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Einführung in die Simulation elektrischer Schaltungen|W. Schumacher (LB)|2
+
+Satellitenortung|SORT-I17|BI|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder Klausur 1 h|H.-F. Harms
+Satellitenortung|J. Wiebe (LB)|2
+
+Mathematik 2|MAT2-I17|BI|2|Pflichtmodul|7,5|Klausur 1,5 h|G. von Cölln
+Mathematik 2|G. von Cölln|4
+Übung Mathematik 2|G. von Cölln|2
+
+Spezielle Verfahren der IT-Sicherheit|SPSE-I17|BI|WPM|Wahlpflichtmodul Zertifikat IT-Sicherheit|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit. Teilnahme an den Seminarvorträgen.|P. Felke
+Seminar Spezielle Verfahren der IT-Sicherheit|P. Felke|4
+
+AV-Produktion|AVPR-M17|BMT|WPM|Wahlpflichtmodul Zertifikat AV-Technik und Zertifikat Computer-Aided Media Production|5|Klausur 1,5h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Audiovisuelle Produktion|T. Lemke, A. Klein|4
+
+Computeranimation|CMAN-M17|BMT|1|Pflichtmodul|7,5|Klausur 1,5h oder mündliche Prüfung|M. Rauschenberger
+Computeranimation|B. Arp|4
+Praktikum Computeranimation|B. Arp|2
+
+Interdisziplinäres Arbeiten|IARB-M17|BMT|WPM|Wahlpflichtmodul|2,5|Studienarbeit|M. Krüger-Basener
+Neue Technik-Horizonte|M. Krüger-Basener|2
+
+Internet-Grundlagen|IGLG-M17|BMT|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|J. Thomaschewski
+Internet-Grundlagen|M. Ternieden|4
+
+Mikrowellenmesstechnik|MWMT-M17|BMT|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder Klausur 1 h|H.-F. Harms
+Mikrowellenmesstechnik|J. Wiebe (LB)|2
+
+Arbeitstechniken 1|ABT1-M17|BMT|1|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|T. Lemke
+Arbeitstechniken 1|T. Lemke|3
+Praktikum Arbeitstechniken 1|T. Lemke|1
+
+MATLAB Seminar||BMT|WPM|Wahlpflichtmodul|2,5|Studienarbeit|G. Kane
+MATLAB Seminar|G. Kane|2
+
+Kommunikationssysteme|KOSY-M17|BMT|WPM|Wahlpflichtmodul|5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Kommunikationssysteme|T. Büscher|2
+Praktikum Kommunikationssysteme|H.-F. Harms|2
+
+Betriebssysteme|BTRS-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|5|Klausur 1,5h oder mündliche Prüfung|C. Link
+Betriebssysteme|C. Link|2
+Praktikum Betriebssysteme|C. Link|2
+
+Marketing für Ingenieure|MRKT-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Marketing für Ingenieure|L. Jänchen|2
+Praktikum Marketing für Ingenieure|L. Jänchen|2
+
+Mathematik 3|MAT3-M17|BMT|3|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|I. Schebesta
+Mathematik 3|I. Schebesta|4
+Übung Mathematik 3|R. Heuermann|2
+
+Mathematik 1|MAT1-M17|BMT|1|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|I. Schebesta
+Mathematik 1|I. Schebesta|4
+Übung Mathematik 1|J. Strick|2
+
+Lichttechnik|LITE-M17|BMT|WPM|Wahlpflichtmodul|5|Klausur 1,5h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Grundlagen der Lichttechnik|Geschwentner (LB)|2
+Angewandte Lichttechnik|Geschwentner (LB)|2
+
+Radio- und Hörspielproduktion|RUHP-M17|BMT|WPM|Wahlpflichtmodul|5|Mündliche Prüfung oder Studienarbeit|T. Lemke
+Radio- und Hörspielproduktion|R. Stark (LB)|4
+
+Refactoring|REFA-M17|BMT|WPM|Wahlpflichtmodul|2,5|Erstellung und Dokumentation von Rechnerprogrammen|M. Rauschenberger
+Refactoring|N. N.|2
+
+Studiotechnik|STTN-M17|BMT|WPM|Wahlpflichtmodul Zertifikat AV-Technik|5|Klausur 1,5h oder mündliche Prüfung|T. Lemke
+Studiotechnik|T. Lemke|4
+
+Computergrafik|COGR-M17|BMT|4|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|I. Schebesta
+Computergrafik|L. Pastoor (LB)|4
+Praktikum Computergrafik|L. Pastoor (LB)|2
+
+Recht und Datenschutz|REDA-M17|BMT|6|Pflichtmodul|5|Klausur 1,5 h oder Studienarbeit|M. Schiemann-Lillie
+Recht und Datenschutz|C. Voss (LB)|3
+Praktikum Recht und Datenschutz|C. Voss (LB)|1
+
+Softwaresicherheit|SWSE-M17|BMT|WPM|Wahlpflichtmodul|5|Kursarbeit oder Klausur 1,5h|C. Link
+Softwaresicherheit|C. Link|4
+
+Hochfrequenztechnik|HFTE-M17|BMT|WPM|Wahlpflichtmodul|5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Hochfrequenztechnik|H.-F. Harms|2
+Praktikum Hochfrequenztechnik|H.-F. Harms|2
+
+Physik|PHYS-M17|BMT|1|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|I. Schebesta
+Physik|I. Schebesta|4
+
+iOS-Programmierung|IPRG-M17|BMT|WPM|Wahlpflichtmodul|5|Mündliche Prüfung oder Erstellung und Dokumentation von Rechnerprogrammen|G. J. Veltink
+iOS-Programmierung|G. J. Veltink|2
+Praktikum iOS-Programmierung|G. J. Veltink|2
+
+Elektrotechnik|ELTK-M17|BMT|2|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|J.-M. Batke
+Elektrotechnik|J. Rolink|3
+Praktikum Elektrotechnik|C. Frerichs|1
+
+Aktuelle Themen der Audio-Technik|ATAT-M17|BMT|WPM|Wahlpflichtmodul|5|Mündliche Präsentation und schriftliche Dokumentation|J.-M. Batke
+Seminar Aktuelle Themen der Audio-Technik|J.-M. Batke|4
+
+Multimediaprojekte|MMPJ-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Computer-Aided Media Production|5|Erstellung und Dokumentation von Rechnerprogrammen und/oder Mündliche Prüfung|G. J. Veltink
+Multimediaprojekte|G. J. Veltink|2
+Praktikum Multimediaprojekte|G. J. Veltink|2
+
+Audio-/Videotechnik 1|AVT1-M17|BMT|1|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Audio-/Videotechnik 1|T. Lemke|2
+Praktikum Audio-/Videotechnik 1|C. Frerichs, A. Klein|2
+
+Kommunikation in Marketing und Vertrieb|KOMV-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|mündliche Prüfung oder Kursarbeit|L. Jänchen
+Kommunikation in Marketing und Vertrieb|L. Jänchen|4
+
+Programmieren 2|PRG2-M17|BMT|3|Pflichtmodul|7,5|Klausur 1,5h oder mündliche Prüfung|M. Rauschenberger
+Programmieren 2|C. Link|4
+Praktikum Programmieren 2|C. Link|2
+
+Audio-/Videotechnik 3|AVT3-M17|BMT|3|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|T. Lemke
+Audio-/Videotechnik 3|J.-M. Batke, T. Lemke|3
+Praktikum Audio-/Videotechnik 3|C. Frerichs, A. Klein|1
+
+Vertriebsprozesse|VTPR-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Vertriebsprozesse|L. Jänchen|2
+Praktikum Vertriebsprozesse|L. Jänchen|2
+
+Persönlichkeiten und Meilensteine der Wissenschaft|PUMW-M17|BMT|WPM|Wahlpflichtmodul|5|Referat|I. Schebesta
+Persönlichkeiten und Meilensteine der Wissenschaft|I. Schebesta|4
+
+Digitale Signalverarbeitung|DSVA-M17|BMT|4|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|J.-M. Batke
+Digitale Signalverarbeitung|J.-M. Batke|3
+Praktikum Digitale Signalverarbeitung|J.-M. Batke|1
+
+Medienelektronik|MEEL-M17|BMT|WPM|Wahlpflichtmodul|5|Referat|J.-M. Batke
+Seminar Medienelektronik|J.-M. Batke, J. Strick|4
+
+Drehbuchentwicklung|DBUC-M17|BMT|WPM|Wahlpflichtmodul|2,5|Studienarbeit|M. Rauschenberger
+Drehbuchentwicklung|M. Rauschenberger|2
+
+Projektgruppe|PRGR-M17|BMT|5|Pflichtmodul|10|Projektbericht|Studiengangssprecher
+Projektbesprechung|Prüfungsbefugte laut BPO-A|1
+Projektseminar|Prüfungsbefugte laut BPO-A|2
+
+Antennen und Wellenausbreitung|ANWE-M17|BMT|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Antennen und Wellenausbreitung|H.-F. Harms|2
+
+Elektroakustik|ELAK-M17|BMT|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder  Klausur 1 h|H.-F. Harms
+Elektroakustik|S. Buss-Eertmoed (LB)|2
+
+Arbeitstechniken 2|ABT2-M17|BMT|2|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Journalistik|S. Bergmann (LB)|1
+Übung Journalistik|S. Bergmann (LB)|1
+Wissenschaftliches Arbeiten|T. Lemke|2
+
+Betriebswirtschaft|BWIR-M17|BMT|5|Pflichtmodul|5|Klausur 1,5 h oder Studienarbeit|L. Jänchen
+Betriebswirtschaft|L. Jänchen|4
+
+Entwurfsmuster|EWMU-M17|BMT|WPM|Wahlpflichtmodul|2,5|Erstellung und Dokumentation von Rechnerprogrammen|M. Rauschenberger
+Entwurfsmuster|N. N.|2
+
+Englisch||BMT|WPM|Wahlpflichtmodul|5|Klausur 1h|M. Parks
+Englisch|M. Parks|2
+
+Medienwissenschaft|MEWI-M17|BMT|4|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Medienwissenschaft|T. Lemke|2
+Medienkritik|T. Lemke|2
+
+Höhere Farbmetrik|HÖFA-M17|BMT|WPM|Wahlpflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Höhere Farbmetrik|T. Lemke|4
+
+Nachrichtentechnik 2|NTE2-M17|BMT|WPM|Wahlpflichtmodul Zertifikat AV-Technik|5|Klausur 1,5 h oder mündliche Prüfung|J.-M. Batke
+Nachrichtentechnik 2|J.-M. Batke|4
+
+Kalkulation und Teamarbeit|KATE-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Kalkulation und Angebotserstellung|L. Jänchen|2
+Teamarbeit und angewandtes Projektmanagement|L. Jänchen|2
+
+Algorithmen und Datenstrukturen|ALGO-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|5|Klausur 1,5 h oder mündliche Prüfung|N. Streekmann
+Algorithmen und Datenstrukturen|N. Streekmann|2
+Praktikum Algorithmen und Datenstrukturen|N. Streekmann|2
+
+Processing|PROC-M17|BMT|WPM|Wahlpflichtmodul|2,5|Erstellung und Dokumentation von Rechnerprogrammen|M. Rauschenberger
+Processing|N. N.|2
+
+Musikproduktion|MUPR-M17|BMT|WPM|Wahlpflichtmodul|5|Referat|J.-M. Batke
+Seminar Post-Produktion|A. Klein|2
+Seminar Live-Produktion|A. Klein|2
+
+Aktuelle Themen aus Forschung und Wissenschaft|AKFW-M17|BMT|WPM|Wahlpflichtmodul|5|Referat|I. Schebesta
+Aktuelle Themen aus Forschung und Wissenschaft|I. Schebesta|4
+
+Digitale Fotografie|DIFO-M17|BMT|WPM|Wahlpflichtmodul|2,5|Kursarbeit|C. Koch
+Digitale Fotografie|E. Bühler (LB)|2
+
+Produktion Digitaler Medien|PRDM-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Computer-Aided Media Production|5|Mündliche Präsentation und Video-Dokumentation|M. Rauschenberger
+Produktion digitaler Medien|B. Arp|4
+
+Mathematik 2|MAT2-M17|BMT|2|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|I. Schebesta
+Mathematik 2|I. Schebesta|4
+Übung Mathematik 2|R. Heuermann|2
+
+Mediensteuerung|MEST-M17|BMT|WPM|Wahlpflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Mediensteuerung|N. N.|4
+
+Visuelle Effekte|VIEF-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Computer-Aided Media Production|5|Studienarbeit|I. Schebesta
+Visuelle Effekte|B. Arp|4
+
+Bachelorarbeit|BAAR-M17|BMT|7|Pflichtmodul|12|Bachelorarbeit mit Kolloquium|Studiengangssprecher
+Bachelorarbeit mit Kolloquium|Prüfungsbefugte laut BPO-A|0
+
+Elektromagnetische Verträglichkeit|EMVE-M17|BMT|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Elektromagnetische Verträglichkeit|H.-F. Harms|2
+
+Angriffsszenarien und Gegenmaßnahmen|ANGM-M17|BMT|WPM|Wahlpflichtmodul|5|Klausur 1,5h oder mündliche Prüfung oder Kursarbeit.|P. Felke
+Angriffsszenarien und Gegenmaßnahmen|P. Felke|2
+Praktikum Angriffsszenarien und Gegenmaßnahmen|P. Felke|2
+
+Statistik|STAT-M17|BMT|WPM|Wahlpflichtmodul|5|mündliche Prüfung oder Kursarbeit|M. Schiemann-Lillie
+Statistik|M. Schiemann-Lillie (LB)|2
+Praktikum Statistik|M. Schiemann-Lillie (LB)|2
+
+Praxisphase|PRAX-M17|BMT|7|Pflichtmodul|18|Projektbericht|Studiengangssprecher
+Praxisarbeit|Prüfungsbefugte laut BPO-A|0
+Praxisseminar|Prüfungsbefugte laut BPO-A|1
+
+Autorensysteme|AUTR-M17|BMT|4|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|G. J. Veltink
+Autorensysteme|G. J. Veltink|3
+Praktikum Autorensysteme|G. J. Veltink|1
+
+Internet-Programmierung|INPR-M17|BMT|4|Pflichtmodul|7,5|Klausur 1,5h oder mündliche Prüfung|J. Thomaschewski
+Internet-Programmierung|J. Thomaschewski|4
+Praktikum Internet-Programmierung|J. Thomaschewski|2
+
+Gestaltung von AV-Produktionen|GAVP-M17|BMT|WPM|Wahlpflichtmodul|5|Klausur 1h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Künstlerische Aspekte der Audio-Produktion|Sehringer (LB)|2
+Künstlerische Aspekte der Video-Produktion|Höhne (LB)|2
+
+Modellierung|MODL-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|5|Klausur 1,5h oder mündliche Prüfung|N. Streekmann
+Modellierung|N. Streekmann|2
+Praktikum Modellierung|N. Streekmann|2
+
+Spezielle Themen der Nachrichtentechnik|STNT-M17|BMT|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Spezielle Themen der Nachrichtentechnik|H.-F. Harms|2
+
+Datenbanken|DBMS-M17|BMT|WPM|Wahlpflichtmodul Zertifikat Medieninformatik|5|Klausur 1,5 h oder mündliche Prüfung|F. Rump
+Datenbanken|F. Rump|3
+Praktikum Datenbanken|F. Rump|1
+
+Projektarbeit|PROJ-M17|BMT|6|Pflichtmodul|10|Studienarbeit|Studiengangssprecher
+Projektarbeit|Prüfungsbefugte laut BPO-A|0
+
+Fotografie und Bildgestaltung|FOBI-M17|BMT|WPM|Wahlpflichtmodul|5|Kursarbeit|C. Koch
+Fotografie und Bildgestaltung|E. Bühler|4
+
+Programmieren 1|PRG1-M17|BMT|2|Pflichtmodul|7,5|Klausur 1,5h oder mündliche Prüfung|M. Rauschenberger
+Programmieren 1|M. Rauschenberger|4
+Praktikum Programmieren 1|M. Rauschenberger|2
+
+Audio-/Videotechnik 2|AVT2-M17|BMT|2|Pflichtmodul|5|Klausur 1,5h oder mündliche Prüfung oder Studienarbeit|T. Lemke
+Audio-/Videotechnik 2|T. Lemke|2
+Praktikum Audio-/Videotechnik 2|C. Frerichs, A. Klein|2
+
+Audio-/Videotechnik 4|AVT4-M17|BMT|WPM|Wahlpflichtmodul Zertifikat AV-Technik|5|Klausur 1,5h oder mündliche Prüfung|T. Lemke
+Audio-/Videotechnik 4|T. Lemke, J.-M. Batke|4
+
+Beleuchtungstechnik|BLTE-M17|BMT|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung|G. Schenke
+Beleuchtungstechnik|G. Schenke (LB)|2
+
+Nachrichtentechnik 1|NTE1-M17|BMT|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|J.-M. Batke
+Nachrichtentechnik 1|J.-M. Batke|3
+Praktikum Nachrichtentechnik 1|J.-M. Batke|1
+
+Einführung in die Simulation elektrischer Schaltungen|SIES-M17|BMT|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Einführung in die Simulation elektrischer Schaltungen|W. Schumacher (LB)|2
+
+Spezielle Themen der Medientechnik|STMT-M17|BMT|WPM|Wahlpflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|Studiengangssprecher
+Spezielle Themen der Medientechnik|Lehrende der Abteilung E+I|4
+
+Satellitenortung|SORT-M17|BMT|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder Klausur 1 h|H.-F. Harms
+Satellitenortung|J. Wiebe (LB)|2
+
+Interdisziplinäres Arbeiten|IARB-E17|BET|WPM|Wahlpflichtmodul|2,5|Studienarbeit|M. Krüger-Basener
+Neue Technik-Horizonte|M. Krüger-Basener|2
+
+Mikrowellenmesstechnik|MWMT-E17|BET|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder Klausur 1 h|H.-F. Harms
+Mikrowellenmesstechnik|J. Wiebe (LB)|2
+
+Mathematik 2|MAT2-E17|BET|2|Pflichtmodul|7,5|Klausur 1,5 h|J. Kittel
+Mathematik 2|J. Kittel|4
+Übung Mathematik 2|J. Kittel|2
+
+MATLAB Seminar||BET|WPM|Wahlpflichtmodul|2,5|Studienarbeit|G. Kane
+MATLAB Seminar|G. Kane|2
+
+Programmieren 3|PRO3-E17|BET|3|Pflichtmodul|5|Klausur 1,5 h|J. Kittel
+Programmieren 3|J. Kittel|2
+Praktikum Programmieren 3|J. Kittel|2
+
+Kommunikationssysteme|KOSY-E17|BET|WPM|Wahlpflichtmodul|5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Kommunikationssysteme|T. Büscher|2
+Praktikum Kommunikationssysteme|H.-F. Harms|2
+
+Programmieren 1|PRG1-E17|BET|1|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|R. Wenzel
+Programmieren 1|R. Wenzel|2
+Praktikum Programmieren 1|R. Wenzel|2
+
+Marketing für Ingenieure|MRKT-E17|BET|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Marketing für Ingenieure|L. Jänchen|2
+Praktikum Marketing für Ingenieure|L. Jänchen|2
+
+Regenerative Energien 2|RGE2-E17|BET|WPM|Wahlpflichtmodul Zertifikat Regenerative Energien|5|Klausur 1,5 h oder mündliche Prüfung|J. Rolink
+Regenerative Energien 2|J. Rolink|2
+Praktikum Regenerative Energien|J. Rolink|2
+
+Halbleiterschaltungstechnik|HLST-E17|BET|4|Pflichtmodul|7,5|Klausur 1,5h|G. Kane
+Halbleiterschaltungstechnik Teil A|G. Kane|2
+Halbleiterschaltungstechnik Teil B|H.-F. Harms|2
+Praktikum Halbleiterschaltungstechnik|G. Kane, H.-F. Harms|2
+
+Gerätetreiberentwicklung in Linux||BET|WPM|Wahlpflichtmodul|2,5|Kursarbeit|I. Herz
+Gerätetreiberentwicklung in Linux|I. Herz|2
+
+Bauelemente der Elektrotechnik|BAUE-E17|BET|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|H.-F. Harms
+Bauelemente der Elektrotechnik|H.-F. Harms|4
+
+Systemprogrammierung|SPRG-E17|BET|WPM|Wahlpflichtmodul|5|Studienarbeit oder mündliche Prüfung|C. Link
+Systemprogrammierung|C. Link|4
+
+Elektromobilität 1|DSVA-E17|BET|WPM|Wahlpflichtmodul|5|Klausur 1,5h oder mündliche Prüfung|M. Masur
+Elektromobilität 1|Dozenten des Fachbereichs Technik|2
+Übung Elektromobilität 1|Dozenten des Fachbereichs Technik|2
+
+Automatisierungssysteme 2|ATS2-E17|BET|WPM|Wahlpflichtmodul Zertifikat Automatisierungstechnik|5|Klausur 1,5 h|J. Kittel
+Automatisierungssysteme 2|J. Kittel|2
+Praktikum Automatisierungssysteme 2|J. Kittel|2
+
+Softwaresicherheit|SWSE-E17|BET|WPM|Wahlpflichtmodul|5|Kursarbeit oder Klausur 1,5h|C. Link
+Softwaresicherheit|C. Link|4
+
+Regelungstechnik|REG1-E17|BET|4|Pflichtmodul|7,5|Klausur 1,5h|G. Kane
+Regelungstechnik|G. Kane|4
+Praktikum Regelungstechnik|G. Kane|2
+
+Hochfrequenztechnik|HFTE-E17|BET|WPM|Wahlpflichtmodul Zertifikat Nachrichtentechnik|5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Hochfrequenztechnik|H.-F. Harms|2
+Praktikum Hochfrequenztechnik|H.-F. Harms|2
+
+Physik|PHYS-E17|BET|1|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|I. Schebesta
+Physik|I. Schebesta|4
+
+iOS-Programmierung|IPRG-E17|BET|WPM|Wahlpflichtmodul|5|Mündliche Prüfung oder Erstellung und Dokumentation von Rechnerprogrammen|G. J. Veltink
+iOS-Programmierung|G. J. Veltink|2
+Praktikum iOS-Programmierung|G. J. Veltink|2
+
+Hardwareentwurf mit VHDL|VHDL-E17|BET|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Test am Rechner oder mündliche Prüfung|D. Rabe
+Hardwareentwurf mit VHDL|D. Rabe|2
+Praktikum Hardwareentwurf mit VHDL|D. Rabe|2
+
+Hardwarenahe Programmierung|HNPR-E17|BET|2|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|C. Koch
+Hardwarenahe Programmierung|C. Koch|2
+Praktikum Hardwarenahe Programmierung|C. Koch|2
+
+Kommunikation in Marketing und Vertrieb|KOMV-E17|BET|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|mündliche Prüfung oder Kursarbeit|L. Jänchen
+Kommunikation in Marketing und Vertrieb|L. Jänchen|4
+
+Digitaltechnik|DIGI-E17|BET|4|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|D. Rabe
+Digitaltechnik|D. Rabe|4
+Praktikum Digitaltechnik|D. Rabe|2
+
+Elektrotechnik 2|ETE2-E17|BET|2|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|J. Rolink
+Elektrotechnik 2|J. Rolink|4
+Praktikum Elektrotechnik A|N. N.|2
+
+Leistungselektronik|LEIE-E17|BET|WPM|Wahlpflichtmodul Zertifikat Regenerative Energien|2,5|Klausur 1,5 h oder mündliche Prüfung|J. Rolink
+Leistungselektronik|N. N.|2
+
+Vertriebsprozesse|VTPR-E17|BET|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Vertriebsprozesse|L. Jänchen|2
+Praktikum Vertriebsprozesse|L. Jänchen|2
+
+Persönlichkeiten und Meilensteine der Wissenschaft|PUMW-E17|BET|WPM|Wahlpflichtmodul|5|Referat|I. Schebesta
+Persönlichkeiten und Meilensteine der Wissenschaft|I. Schebesta|4
+
+Digitale Signalverarbeitung|DSVA-E17|BET|WPM|Wahlpflichtmodul Zertifikat Nachrichtentechnik und Zertifikat Technische Informatik|5|Klausur 1,5 h oder mündliche Prüfung|J.-M. Batke
+Digitale Signalverarbeitung|J.-M. Batke|3
+Praktikum Digitale Signalverarbeitung|J.-M. Batke|1
+
+HW/SW Codesign|HWSW-E17|BET|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Klausur 1,5h oder mündliche Prüfung oder Studienarbeit|C. Koch
+HW/SW-Codesign|C. Koch|2
+Praktikum HW/SW-Codesign|C. Koch|2
+
+Antennen und Wellenausbreitung|ANWE-E17|BET|WPM|Wahlpflichtmodul Zertifikat Nachrichtentechnik|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Antennen und Wellenausbreitung|H.-F. Harms|2
+
+Elektroakustik|ELAK-E17|BET|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder  Klausur 1 h|H.-F. Harms
+Elektroakustik|S. Buss-Eertmoed (LB)|2
+
+Schlüsselqualifikationen|SQUA-E17|BET|1|Pflichtmodul|2,5|Klausur 1,5 h oder Studienarbeit|L. Jänchen
+Schlüsselqualifikationen|L. Jänchen|2
+
+Betriebswirtschaft|BWIR-E17|BET|6|Pflichtmodul|5|Klausur 1,5 h oder Studienarbeit|L. Jänchen
+Betriebswirtschaft|L. Jänchen|4
+
+Echtzeitdatenverarbeitung|EZDV-E17|BET|5|Pflichtmodul|5|mündliche Prüfung|A. W. Colombo
+Echtzeitdatenverarbeitung|A. W. Colombo|2
+Praktikum Echtzeitdatenverarbeitung|M. Wermann|2
+
+Englisch||BET|WPM|Wahlpflichtmodul|5|Klausur 1h|M. Parks
+Englisch|M. Parks|2
+
+Mikrocomputertechnik|MCTE-E17|BET|5|Pflichtmodul|5|Klausur 1,5 h|G. von Cölln
+Mikrocomputertechnik|G. von Cölln|2
+Praktikum Mikrocomputertechnik|G. von Cölln|2
+
+Elektrische Energietechnik|ENER-E17|BET|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|J. Rolink
+Elektrische Energietechnik|J. Rolink|4
+
+Mathematik 3|MAT3-E17|BET|3|Pflichtmodul|7,5|Klausur 1,5h|G. Kane
+Mathematik 3|G. Kane|4
+Übung Mathematik 3|G. Kane|2
+
+Mathematik 1|MAT1-E17|BET|1|Pflichtmodul|7,5|Klausur 1,5 h|J. Kittel
+Mathematik 1|J. Kittel|4
+Übung Mathematik 1|J. Kittel|2
+
+Einführung in die Informatik|EINF-E17|BET|1|Pflichtmodul|2,5|Klausur 1,5 h|D. Rabe
+Einführung in die Informatik|D. Rabe|2
+
+Nachrichtentechnik 2|NTE2-E17|BET|WPM|Wahlpflichtmodul Zertifikat Nachrichtentechnik|5|Klausur 1,5 h oder mündliche Prüfung|J.-M. Batke
+Nachrichtentechnik 2|J.-M. Batke|4
+
+Kalkulation und Teamarbeit|KATE-E17|BET|WPM|Wahlpflichtmodul Zertifikat Marketing und Vertrieb|5|Klausur 1,5 h oder mündliche Prüfung oder Kursarbeit|L. Jänchen
+Kalkulation und Angebotserstellung|L. Jänchen|2
+Teamarbeit und angewandtes Projektmanagement|L. Jänchen|2
+
+Algorithmen und Datenstrukturen|ALGO-E17|BET|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Klausur 1,5 h oder mündliche Prüfung|N. Streekmann
+Algorithmen und Datenstrukturen|N. Streekmann|2
+Praktikum Algorithmen und Datenstrukturen|N. Streekmann|2
+
+Aktuelle Themen aus Forschung und Wissenschaft|AKFW-E17|BET|WPM|Wahlpflichtmodul|5|Referat|I. Schebesta
+Aktuelle Themen aus Forschung und Wissenschaft|I. Schebesta|4
+
+Programmieren 2|PRG2-E17|BET|2|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|R. Wenzel
+Programmieren 2|R. Wenzel|2
+Praktikum Programmieren 2|R. Wenzel|2
+
+Digitale Fotografie|DIFO-E17|BET|WPM|Wahlpflichtmodul|2,5|Kursarbeit|C. Koch
+Digitale Fotografie|E. Bühler (LB)|2
+
+Regenerative Energien 1|RGE1-E17|BET|WPM|Wahlpflichtmodul Zertifikat Regenerative Energien|5|Klausur 1,5 h oder mündliche Prüfung|J. Rolink
+Regenerative Energien 1|J. Rolink|4
+
+Regelung und Simulation|REG2-E17|BET|WPM|Wahlpflichtmodul Zertifikat Automatisierungstechnik|2,5|Klausur 1,5h oder mündliche Prüfung|G. Kane
+Regelung und Simulation|G. Kane|2
+
+Projektarbeit|PROJ-E17|BET|6|Pflichtmodul|5|Projektbericht|Studiengangssprecher
+Projektarbeit|Prüfungsbefugte laut BPO-A|0
+
+Bachelorarbeit|BAAR-E17|BET|7|Pflichtmodul|12|Bachelorarbeit mit Kolloquium|Studiengangssprecher
+Bachelorarbeit mit Kolloquium|Prüfungsbefugte laut BPO-A|0
+
+Elektromagnetische Verträglichkeit|EMVE-E17|BET|WPM|Wahlpflichtmodul Zertifikat Nachrichtentechnik|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1,0 h|H.-F. Harms
+Elektromagnetische Verträglichkeit|H.-F. Harms|2
+
+Entwurf elektronischer Geräte/CAD|EEGE-E17|BET|4|Pflichtmodul|5|Klausur 1,0 h oder mündliche Prüfung oder Studienarbeit|H.-F. Harms
+Entwurf elektronischer Geräte|H.-F. Harms|2
+Praktikum CAD|H.-F. Harms|2
+
+Angriffsszenarien und Gegenmaßnahmen|ANGM-E17|BET|WPM|Wahlpflichtmodul|5|Klausur 1,5h oder mündliche Prüfung oder Kursarbeit.|P. Felke
+Angriffsszenarien und Gegenmaßnahmen|P. Felke|2
+Praktikum Angriffsszenarien und Gegenmaßnahmen|P. Felke|2
+
+Statistik|STAT-E17|BET|WPM|Wahlpflichtmodul|5|mündliche Prüfung oder Kursarbeit|M. Schiemann-Lillie
+Statistik|M. Schiemann-Lillie (LB)|2
+Praktikum Statistik|M. Schiemann-Lillie (LB)|2
+
+Autonome Systeme|AUSY-E17|BET|WPM|Wahlpflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung oder Studienarbeit|C. Koch
+Autonome Systeme|C. Koch|4
+
+Praxisphase|PRAX-E17|BET|7|Pflichtmodul|18|Projektbericht|Studiengangssprecher
+Praxisarbeit|Prüfungsbefugte laut BPO-A|0
+Praxisseminar|Prüfungsbefugte laut BPO-A|1
+
+Rechnernetze|RNTZ-E17|BET|6|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|D. Kutscher
+Rechnernetze|D. Kutscher|3
+Praktikum Rechnernetze|D. Kutscher|1
+
+Rechnerarchitekturen|RARC-E17|BET|4|Pflichtmodul|5|Klausur 1,5 h|G. von Cölln
+Rechnerarchitekturen|G. von Cölln|4
+
+Automatisierungssysteme 1|ATS1-E17|BET|WPM|Wahlpflichtmodul Zertifikat Automatisierungstechnik|5|Klausur 1,5 h|J. Kittel
+Automatisierungssysteme 1|J. Kittel|3
+Praktikum Automatisierungssysteme 1|J. Kittel|1
+
+Spezielle Themen der Nachrichtentechnik|STNT-E17|BET|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Spezielle Themen der Nachrichtentechnik|H.-F. Harms|2
+
+Elektrische Antriebe|ANTR-E17|BET|WPM|Wahlpflichtmodul Zertifikat Automatisierungstechnik und Zertifikat Regenerative Energien|7,5|Klausur 1,5 h|M. Masur
+Elektrische Antriebe|M. Masur|3
+Praktikum Elektrische Antriebe|M. Masur|2
+
+Fotografie und Bildgestaltung|FOBI-E17|BET|WPM|Wahlpflichtmodul|5|Kursarbeit|C. Koch
+Fotografie und Bildgestaltung|E. Bühler|4
+
+Drahtlose Sensortechnik|DSVA-E17|BET|WPM|Wahlpflichtmodul Zertifikat Technische Informatik|5|Klausur 1,5h oder mündliche Prüfung|G. von Cölln
+Drahtlose Sensortechnik|G. von Cölln|2
+Praktikum Drahtlose Sensortechnik|G. von Cölln|2
+
+Elektrotechnik 1|ETE1-E17|BET|1|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|J. Rolink
+Elektrotechnik 1|J. Rolink|6
+
+Elektrotechnik 3|ETE3-E17|BET|3|Pflichtmodul|5|Klausur 1,5 h|J. Rolink
+Elektrische Maschinen|M. Masur|2
+Praktikum Elektrotechnik B|J. Rolink|2
+
+Beleuchtungstechnik|BLTE-E17|BET|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung|G. Schenke
+Beleuchtungstechnik|G. Schenke (LB)|2
+
+Nachrichtentechnik 1|NTE1-E17|BET|4|Pflichtmodul|2,5|Klausur 1,0 h|H.-F. Harms
+Nachrichtentechnik 1|H.-F. Harms|2
+
+Elektrokonstruktion mittels EPLAN|ELKO-E17|BET|WPM|Wahlpflichtmodul|2,5|Klausur 1,5 h|H.-F. Harms
+Elektrokonstruktion mittels EPLAN|K. Müller|2
+
+Einführung in die Simulation elektrischer Schaltungen|SIES-E17|BET|WPM|Wahlpflichtmodul|2,5|Kursarbeit oder mündliche Prüfung oder Klausur 1 h|H.-F. Harms
+Einführung in die Simulation elektrischer Schaltungen|W. Schumacher (LB)|2
+
+Satellitenortung|SORT-E17|BET|WPM|Wahlpflichtmodul|2,5|mündliche Prüfung oder Kursarbeit oder Klausur 1 h|H.-F. Harms
+Satellitenortung|J. Wiebe (LB)|2
+
+Elektrische Messtechnik|EMES-E17|BET|2|Pflichtmodul|7,5|Klausur 1,5 h oder mündliche Prüfung|Th. Dunz
+Elektrische Messtechnik|Th. Dunz|4
+Praktikum Elektrische Messtechnik|Th. Dunz|2
+

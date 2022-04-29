@@ -1,0 +1,7 @@
+Java 2|JAV2-I17|BI|2|Pflichtmodul|5|Klausur 1,5 h|F. Rump
+Java 2|F. Rump|2
+Praktikum Java 2|F. Rump|2
+
+Datenbanken|DBMS-I17|BI|3|Pflichtmodul|5|Klausur 1,5 h oder mündliche Prüfung|F. Rump
+Datenbanken|F. Rump|3
+Praktikum Datenbanken|F. Rump|1

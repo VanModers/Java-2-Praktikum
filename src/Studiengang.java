@@ -40,6 +40,6 @@ public class Studiengang implements Comparable<Studiengang> {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Studiengang that = (Studiengang) o;
-        return Objects.equals(bezeichnung, that.bezeichnung);
+        return bezeichnung.equals(that.bezeichnung);
     }
 }

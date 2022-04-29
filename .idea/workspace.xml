@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulbeschreibungen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Studiengang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Veranstaltung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beispiel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/textdatei.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulbeschreibungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulbeschreibungen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Studiengang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Studiengang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/progr/IdeaProjects/Aufgabe_4_Modulbeschreibungen/src"
+    "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "last_opened_file_path": "C:/Users/progr/IdeaProjects/Java_2_Praktikum"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,8 +61,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651220487965</updated>
-      <workItem from="1651220489798" duration="11791000" />
+      <workItem from="1651220489798" duration="12206000" />
+      <workItem from="1651237486302" duration="671000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1651237002239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651237002240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

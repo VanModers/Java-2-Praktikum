@@ -34,10 +34,18 @@ public class Modulbeschreibungen {
         initialiseStudiengaenge();
     }
 
+    private boolean studieangaengeContains(String studiengang) {
+        for(Studiengang st : studiengaenge) {
+            if(st.getBezeichnung().equals(studiengang))
+                return true;
+        }
+        return false;
+    }
+
     private void initialiseStudiengaenge() {
         studiengaenge = new TreeSet<>();
         for(Modul modul : module) {
-            if(!studiengaenge.contains(new Studiengang(modul.getStudiengang(),0))) {
+            if(!studieangaengeContains(modul.getStudiengang())) {
                 Map<Integer, Integer> sws = getSWS(modul.getStudiengang());
                 int totalSWS = 0;
                 for(int swsValue : sws.values()) {

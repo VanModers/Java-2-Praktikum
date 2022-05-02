@@ -14,17 +14,6 @@ public class Modul {
 
     private final List<Veranstaltung> veranstaltungen = new ArrayList<>();
 
-    public Modul(String modulbezeichnung, String kuerzel, String studiengang, int semester, String art, double ectsPunkte, String pruefungsform, String modulverantwortlicher) {
-        this.modulbezeichnung = modulbezeichnung;
-        this.kuerzel = kuerzel;
-        this.studiengang = studiengang;
-        this.semester = semester;
-        this.art = art;
-        this.ectsPunkte = ectsPunkte;
-        this.pruefungsform = pruefungsform;
-        this.modulverantwortlicher = modulverantwortlicher;
-    }
-
     public Modul(List<String> data) {
         parseModulInfo(data);
     }
@@ -100,24 +89,24 @@ public class Modul {
         return kuerzelBisBindestrich(this.kuerzel).equals(kuerzelBisBindestrich(modul.kuerzel));
     }
 
-    public static String kuerzelBisBindestrich(String kürzel) {
-        int length = kürzel.indexOf('-');
+    public static String kuerzelBisBindestrich(String kuerzel) {
+        int length = kuerzel.indexOf('-');
         if(length < 0)
-            length = kürzel.length();
-        return kürzel.substring(0, length);
+            length = kuerzel.length();
+        return kuerzel.substring(0, length);
     }
 
     public String getJSON() {
         StringBuilder str = new StringBuilder();
         str.append("{\n");
-        str.append("    \"bezeichnung\": " + "\"" + modulbezeichnung + "\",\n");
-        str.append("    \"kuerzel\": " + "\"" + kuerzel + "\",\n");
-        str.append("    \"studiengang\": " + "\"" + studiengang + "\",\n");
-        str.append("    \"semester\": " + semester + ",\n");
-        str.append("    \"art\": " + "\"" + art + "\",\n");
-        str.append("    \"ects\": " + ectsPunkte + ",\n");
-        str.append("    \"pruefungsform\": " + "\"" + pruefungsform + "\",\n");
-        str.append("    \"verantwortlicher\": " + "\"" + modulverantwortlicher + "\",\n");
+        str.append("    \"bezeichnung\": " + "\"").append(modulbezeichnung).append("\",\n");
+        str.append("    \"kuerzel\": " + "\"").append(kuerzel).append("\",\n");
+        str.append("    \"studiengang\": " + "\"").append(studiengang).append("\",\n");
+        str.append("    \"semester\": \"").append(semester > 0 ? semester : "WPM").append("\",\n");
+        str.append("    \"art\": " + "\"").append(art).append("\",\n");
+        str.append("    \"ects\": ").append(ectsPunkte).append(",\n");
+        str.append("    \"pruefungsform\": " + "\"").append(pruefungsform).append("\",\n");
+        str.append("    \"verantwortlicher\": " + "\"").append(modulverantwortlicher).append("\",\n");
         str.append("    \"veranstaltungen\": " + "[");
         Iterator<Veranstaltung> it = veranstaltungen.iterator();
         while(it.hasNext()) {

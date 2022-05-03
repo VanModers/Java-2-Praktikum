@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed JSON (string for semester)">
-      <change afterPath="$PROJECT_DIR$/src/Modulbeschreibungen_Test.java" afterDir="false" />
+    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed getZertifikate (now returns set of strings without containing &quot;Zertifikat&quot;)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulbeschreibungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulbeschreibungen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulbeschreibungen_Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <recent name="C:\Users\progr\IdeaProjects\Java_2_Praktikum\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="JUnit.Modulbeschreibungen_Test">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
@@ -87,7 +85,7 @@
       <workItem from="1651237486302" duration="1660000" />
       <workItem from="1651330428896" duration="606000" />
       <workItem from="1651518082414" duration="596000" />
-      <workItem from="1651597972507" duration="404000" />
+      <workItem from="1651597972507" duration="886000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1651237002239</created>
@@ -110,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651518647183</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed getZertifikate (now returns set of strings without containing &quot;Zertifikat&quot;)">
+      <created>1651598574039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651598574039</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Fixed JSON (string for semester)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed JSON (string for semester)" />
+    <MESSAGE value="Fixed getZertifikate (now returns set of strings without containing &quot;Zertifikat&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed getZertifikate (now returns set of strings without containing &quot;Zertifikat&quot;)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_2_Praktikum$Modulbeschreibungen_Test.ic" NAME="Modulbeschreibungen_Test Coverage Results" MODIFIED="1651598127535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

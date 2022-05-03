@@ -75,15 +75,16 @@ public class Modulbeschreibungen {
                 boolean recording = false;
                 String[] art = modul.getArt().split("\\s+");
                 for (int i = 0; i < art.length; i++) {
-                    if (!recording && art[i].equals("Zertifikat")) {
+                    if (!recording && art[i].equals("Zertifikat") && i+1 < art.length) {
                         recording = true;
-                        zertifikat.append(art[i]);
+                        zertifikat.append(art[++i]);
                     }
                     else if (recording) {
-                        if(art[i].equals("und") && i+1 < art.length && art[i+1].equals("Zertifikat")) {
+                        if(art[i].equals("und") && i+2 < art.length && art[i+1].equals("Zertifikat")) {
                             result.add(zertifikat.toString());
                             zertifikat = new StringBuilder();
-                            zertifikat.append(art[++i]);
+                            i += 2;
+                            zertifikat.append(art[i]);
                         }
                         else {
                             zertifikat.append(" ").append(art[i]);

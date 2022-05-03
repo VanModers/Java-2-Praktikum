@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="initial commit">
+    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed JSON (string for semester)">
+      <change afterPath="$PROJECT_DIR$/src/Modulbeschreibungen_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulbeschreibungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulbeschreibungen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,21 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/progr/IdeaProjects/Java_2_Praktikum&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "last_opened_file_path": "C:/Users/progr/IdeaProjects/Java_2_Praktikum"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\progr\IdeaProjects\Aufgabe_4_Modulbeschreibungen\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\progr\IdeaProjects\Java_2_Praktikum\src" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
@@ -51,6 +60,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Modulbeschreibungen_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aufgabe_4_Modulbeschreibungen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Modulbeschreibungen_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Modulbeschreibungen_Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +86,8 @@
       <workItem from="1651220489798" duration="12206000" />
       <workItem from="1651237486302" duration="1660000" />
       <workItem from="1651330428896" duration="606000" />
-      <workItem from="1651518082414" duration="281000" />
+      <workItem from="1651518082414" duration="596000" />
+      <workItem from="1651597972507" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1651237002239</created>
@@ -79,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651238176869</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed JSON (string for semester)">
+      <created>1651518647183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651518647183</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +129,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Fixed JSON (string for semester)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed JSON (string for semester)" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_2_Praktikum$Modulbeschreibungen_Test.ic" NAME="Modulbeschreibungen_Test Coverage Results" MODIFIED="1651598127535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

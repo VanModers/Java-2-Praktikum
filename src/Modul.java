@@ -23,7 +23,7 @@ public class Modul {
         this.modulbezeichnung = attributes[0];
         this.kuerzel = attributes[1];
         this.studiengang = attributes[2];
-        if(!attributes[3].equals("WPM"))
+        if (!attributes[3].equals("WPM"))
             this.semester = Integer.parseInt(attributes[3]);
         else
             this.semester = -1;
@@ -32,7 +32,7 @@ public class Modul {
         this.pruefungsform = attributes[6];
         this.modulverantwortlicher = attributes[7];
 
-        for(int i = 1; i < data.size(); i++) {
+        for (int i = 1; i < data.size(); i++) {
             veranstaltungen.add(new Veranstaltung(data.get(i)));
         }
     }
@@ -74,16 +74,16 @@ public class Modul {
     }
 
     public boolean verzahnt(Modul modul) {
-        if(this == modul)
+        if (this == modul)
             return false;
 
-        if(studiengang.equals(modul.studiengang))
+        if (studiengang.equals(modul.studiengang))
             return false;
 
-        if(!modulbezeichnung.equals(modul.modulbezeichnung))
+        if (!modulbezeichnung.equals(modul.modulbezeichnung))
             return false;
 
-        if(!modulverantwortlicher.equals(modul.modulverantwortlicher))
+        if (!modulverantwortlicher.equals(modul.modulverantwortlicher))
             return false;
 
         return kuerzelBisBindestrich(this.kuerzel).equals(kuerzelBisBindestrich(modul.kuerzel));
@@ -91,7 +91,7 @@ public class Modul {
 
     public static String kuerzelBisBindestrich(String kuerzel) {
         int length = kuerzel.indexOf('-');
-        if(length < 0)
+        if (length < 0)
             length = kuerzel.length();
         return kuerzel.substring(0, length);
     }
@@ -109,9 +109,9 @@ public class Modul {
         str.append("    \"verantwortlicher\": " + "\"").append(modulverantwortlicher).append("\",\n");
         str.append("    \"veranstaltungen\": " + "[");
         Iterator<Veranstaltung> it = veranstaltungen.iterator();
-        while(it.hasNext()) {
+        while (it.hasNext()) {
             str.append(it.next().getJSON());
-            if(it.hasNext())
+            if (it.hasNext())
                 str.append(", ");
         }
         str.append("]\n");

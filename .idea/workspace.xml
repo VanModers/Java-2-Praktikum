@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Improved some methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Studiengang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Studiengang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <workItem from="1651597972507" duration="1108000" />
       <workItem from="1651664597826" duration="44000" />
       <workItem from="1651775909969" duration="2696000" />
-      <workItem from="1651824776434" duration="1795000" />
+      <workItem from="1651824776434" duration="2513000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1651237002239</created>
@@ -132,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651826488063</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Improved some methods">
+      <created>1651826592091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651826592091</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Improved some methods">
+      <created>1651826620612</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651826620612</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

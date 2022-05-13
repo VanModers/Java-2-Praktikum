@@ -1,3 +1,5 @@
+package Aufgabe_4_Modulbeschreibungen;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;

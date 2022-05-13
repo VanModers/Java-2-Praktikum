@@ -1,3 +1,5 @@
+package Aufgabe_4_Modulbeschreibungen;
+
 public class Veranstaltung {
     private String titel;
     private String dozent;

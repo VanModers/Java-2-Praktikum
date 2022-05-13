@@ -1,6 +1,7 @@
+package Aufgabe_4_Modulbeschreibungen;
+
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class Studiengang implements Comparable<Studiengang> {
     private final String bezeichnung;

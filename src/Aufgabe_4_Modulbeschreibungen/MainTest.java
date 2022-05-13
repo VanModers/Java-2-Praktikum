@@ -1,9 +1,11 @@
+package Aufgabe_4_Modulbeschreibungen;
+
 import java.io.File;
 
 public class MainTest {
     public static void main(String[] args) {
         File f = new File("");
-        Modulbeschreibungen modulbeschreibungen = new Modulbeschreibungen("./src/textdatei.txt");
+        Modulbeschreibungen modulbeschreibungen = new Modulbeschreibungen("./src/Aufgabe_4_Modulbeschreibungen/textdatei.txt");
         System.out.println(modulbeschreibungen.getZertifikate("BET"));
         System.out.println(modulbeschreibungen.getVerzahnteModule());
         System.out.println(modulbeschreibungen.getAnzahlModule("BI", null));

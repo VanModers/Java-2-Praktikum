@@ -10,6 +10,8 @@ public class Klausurenserver extends Thread {
     private Teilnahmedaten teilnahmedaten;
     private int port;
 
+    private ServerSocket serverSocket;
+
     public Klausurenserver(int _port) {
         this.teilnahmedaten = new Teilnahmedaten();
         this.port = _port;
@@ -17,18 +19,21 @@ public class Klausurenserver extends Thread {
 
     public void run() {
         try {
-            ServerSocket serverSocket = new ServerSocket(port);
+            serverSocket = new ServerSocket(port);
             while(isRunning) {
                 Socket so = serverSocket.accept();
                 new ServerThread(so, teilnahmedaten, this).start();
             }
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            System.out.println("Closing server");
         }
     }
 
     public void close() {
         isRunning = false;
+        try {
+            serverSocket.close();
+        } catch (IOException e) {}
         this.interrupt();
     }
 }

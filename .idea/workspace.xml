@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Improved some methods">
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Klausurenserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/ServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Teilnahmedaten.java" afterDir="false" />
+    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed stop-function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_4_Modulbeschreibungen/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_4_Modulbeschreibungen/Modul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulbeschreibungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_4_Modulbeschreibungen/Modulbeschreibungen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Studiengang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_4_Modulbeschreibungen/Studiengang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Veranstaltung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_4_Modulbeschreibungen/Veranstaltung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beispiel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_4_Modulbeschreibungen/beispiel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textdatei.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_4_Modulbeschreibungen/textdatei.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Klausurenserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Klausurenserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/ServerThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +52,21 @@
       <recent name="C:\Users\progr\IdeaProjects\Java_2_Praktikum\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainTest">
+  <component name="RunManager" selected="Application.Aufgabe_5_Klausurenserver.Main">
+    <configuration name="Aufgabe_5_Klausurenserver.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe_5_Klausurenserver.Main" />
+      <module name="Aufgabe_4_Modulbeschreibungen" />
+      <option name="PROGRAM_PARAMETERS" value="2000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aufgabe_5_Klausurenserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe_4_Modulbeschreibungen.MainTest" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
@@ -91,8 +96,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="JUnit.Modulbeschreibungen_Test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="JUnit.Modulbeschreibungen_Test" />
       </list>
@@ -114,7 +126,7 @@
       <workItem from="1651664597826" duration="44000" />
       <workItem from="1651775909969" duration="2696000" />
       <workItem from="1651824776434" duration="2513000" />
-      <workItem from="1652430180922" duration="3494000" />
+      <workItem from="1652430180922" duration="5427000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1651237002239</created>
@@ -172,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651826620612</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added server implementation">
+      <created>1652433753224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652433753224</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +214,9 @@
     <MESSAGE value="Fixed getZertifikate (now returns set of strings without containing &quot;Zertifikat&quot;)" />
     <MESSAGE value="Removed test-class" />
     <MESSAGE value="Improved some methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improved some methods" />
+    <MESSAGE value="Added server implementation" />
+    <MESSAGE value="Fixed stop-function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed stop-function" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_2_Praktikum$Modulbeschreibungen_Test.ic" NAME="Modulbeschreibungen_Test Coverage Results" MODIFIED="1651598952725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

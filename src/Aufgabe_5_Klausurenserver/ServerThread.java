@@ -33,45 +33,51 @@ public class ServerThread extends Thread {
 
     public void run() {
         try {
+            System.out.println("New Client");
             BufferedReader socket_in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-            PrintWriter socket_out = new PrintWriter(clientSocket.getOutputStream(), true);
             String line = socket_in.readLine();
             String[] commands = line.split("\\s+");
 
-            if(commands[0].toUpperCase().equals("PUT") && commands.length == 3) {
+            PrintWriter socket_out = new PrintWriter(clientSocket.getOutputStream(), true);
+
+            if(commands[0].equalsIgnoreCase("PUT") && commands.length == 3) {
                 Set<Integer> oldvalue = teilnahmedaten.put(commands[1], getData(commands[2]));
                 socket_out.print("1 ");
-                socket_out.print(oldvalue.toString());
+                if(oldvalue != null)
+                    socket_out.print(oldvalue);
             }
-            else if(commands[0].toUpperCase().equals("GET") && commands.length == 2) {
-                Set<Integer> values = teilnahmedaten.get(commands[1]);
+            else if(commands[0].equalsIgnoreCase("GET") && commands.length == 2) {
+                Set<Integer> value = teilnahmedaten.get(commands[1]);
                 socket_out.print("1 ");
-                socket_out.print(values.toString());
+                if(value != null)
+                    socket_out.print(value);
             }
-            else if(commands[0].toUpperCase().equals("DEL") && commands.length == 2) {
-                Set<Integer> oldvalues = teilnahmedaten.del(commands[1]);
+            else if(commands[0].equalsIgnoreCase("DEL") && commands.length == 2) {
+                Set<Integer> oldvalue = teilnahmedaten.del(commands[1]);
                 socket_out.print("1 ");
-                socket_out.print(oldvalues.toString());
+                if(oldvalue != null)
+                    socket_out.print(oldvalue);
             }
-            else if(commands[0].toUpperCase().equals("GETALL")) {
+            else if(commands[0].equalsIgnoreCase("GETALL")) {
                 Set<Set<Integer>> allValues = teilnahmedaten.getAll();
                 socket_out.print("1");
-                for(Set<Integer> values : allValues) {
-                    socket_out.print(" " + values.toString());
+                if(allValues != null) {
+                    for (Set<Integer> values : allValues) {
+                        socket_out.print(" " + values.toString());
+                    }
                 }
             }
-            else if(commands[0].toUpperCase().equals("STOP")) {
-                server.close();
+            else if(commands[0].equalsIgnoreCase("STOP")) {
                 socket_out.println("1");
+                server.close();
             }
 
             socket_out.flush();
             clientSocket.close();
+
+            System.out.println("Closed connection");
         }
-        catch (NumberFormatException e) {
-            e.printStackTrace();
-        }
-        catch (IOException e) {
+        catch (NumberFormatException | IOException e) {
             e.printStackTrace();
         }
     }

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed stop-function">
+    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Finished implementation of Teilnahmedaten, visual fixes in ServerThread and Klausurenserver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Klausurenserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Klausurenserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Teilnahmedaten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Teilnahmedaten.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +127,8 @@
       <workItem from="1651664597826" duration="44000" />
       <workItem from="1651775909969" duration="2696000" />
       <workItem from="1651824776434" duration="2513000" />
-      <workItem from="1652430180922" duration="5427000" />
+      <workItem from="1652430180922" duration="5495000" />
+      <workItem from="1652529320994" duration="5044000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1651237002239</created>
@@ -191,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652433753224</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fixed stop-function">
+      <created>1652440544132</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652440544132</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +225,8 @@
     <MESSAGE value="Improved some methods" />
     <MESSAGE value="Added server implementation" />
     <MESSAGE value="Fixed stop-function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed stop-function" />
+    <MESSAGE value="Finished implementation of Teilnahmedaten, visual fixes in ServerThread and Klausurenserver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished implementation of Teilnahmedaten, visual fixes in ServerThread and Klausurenserver" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_2_Praktikum$Modulbeschreibungen_Test.ic" NAME="Modulbeschreibungen_Test Coverage Results" MODIFIED="1651598952725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

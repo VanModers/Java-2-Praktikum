@@ -6,9 +6,9 @@ import java.net.Socket;
 
 public class Klausurenserver extends Thread {
     private boolean isRunning = true;
-
-    private Teilnahmedaten teilnahmedaten;
-    private int port;
+    private final Teilnahmedaten teilnahmedaten;
+    private final int port;
+    private int clientCount = 1;
 
     private ServerSocket serverSocket;
 
@@ -19,13 +19,14 @@ public class Klausurenserver extends Thread {
 
     public void run() {
         try {
+            System.out.println("starting server");
             serverSocket = new ServerSocket(port);
             while(isRunning) {
                 Socket so = serverSocket.accept();
-                new ServerThread(so, teilnahmedaten, this).start();
+                new ServerThread(so, teilnahmedaten, this, clientCount++).start();
             }
         } catch (IOException e) {
-            System.out.println("Closing server");
+            System.out.println("stopping server");
         }
     }
 
@@ -33,7 +34,7 @@ public class Klausurenserver extends Thread {
         isRunning = false;
         try {
             serverSocket.close();
-        } catch (IOException e) {}
+        } catch (IOException ignored) {}
         this.interrupt();
     }
 }

@@ -36,17 +36,37 @@ public class Teilnahmedaten {
         return returnTreesetIfNotNull(alteTeilnahmen);
     }
 
-    //TODO: Verhalten bei Schnittmenge
+    private static boolean containsTeilnahmen(Set<Set<Integer>> alleTeilnahmen, Set<Integer> teilnahmen) {
+        boolean contains;
+        for(Set<Integer> addedTeilnahmen : alleTeilnahmen) {
+            contains = true;
+            for(int id : teilnahmen) {
+                if (!addedTeilnahmen.contains(id)){
+                    contains = false;
+                    break;
+                }
+            }
+            if(contains)
+                return true;
+        }
+        return false;
+    }
+
     public Set<Set<Integer>> getAll()
     {
         Set<Set<Integer>> alleTeilnahmen = new HashSet<>();
 
         for(Set<Integer> teilnahmen : this.teilnahmen.values())
         {
-            alleTeilnahmen.add(teilnahmen);
+            if(!containsTeilnahmen(alleTeilnahmen,teilnahmen))
+                alleTeilnahmen.add(teilnahmen);
         }
 
         return alleTeilnahmen;
+    }
+
+    public boolean containsKey(String key) {
+        return teilnahmen.containsKey(key);
     }
 
     private static Set<Integer> returnTreesetIfNotNull(Set<Integer> set)

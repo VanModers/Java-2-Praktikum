@@ -39,17 +39,29 @@ public class Teilnahmedaten {
     private static boolean containsTeilnahmen(Set<Set<Integer>> alleTeilnahmen, Set<Integer> teilnahmen) {
         boolean contains;
         for(Set<Integer> addedTeilnahmen : alleTeilnahmen) {
-            contains = true;
-            for(int id : teilnahmen) {
-                if (!addedTeilnahmen.contains(id)){
-                    contains = false;
-                    break;
+            if(addedTeilnahmen != teilnahmen) {
+                contains = true;
+                for (int id : teilnahmen) {
+                    if (!addedTeilnahmen.contains(id)) {
+                        contains = false;
+                        break;
+                    }
                 }
+                if (contains)
+                    return true;
             }
-            if(contains)
-                return true;
         }
         return false;
+    }
+
+    private static Set<Set<Integer>> removeDoublets(Set<Set<Integer>> alleTeilnahmen) {
+        Set<Set<Integer>> result = new HashSet<>(alleTeilnahmen);
+        for(Set<Integer> teilnahmen : alleTeilnahmen) {
+            if(containsTeilnahmen(alleTeilnahmen, teilnahmen)) {
+                result.remove(teilnahmen);
+            }
+        }
+        return result;
     }
 
     public Set<Set<Integer>> getAll()
@@ -62,7 +74,7 @@ public class Teilnahmedaten {
                 alleTeilnahmen.add(teilnahmen);
         }
 
-        return alleTeilnahmen;
+        return removeDoublets(alleTeilnahmen);
     }
 
     public boolean containsKey(String key) {

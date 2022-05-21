@@ -12,8 +12,8 @@ public class Klausurenserver extends Thread {
 
     private ServerSocket serverSocket;
 
-    public Klausurenserver(int _port) {
-        this.teilnahmedaten = new Teilnahmedaten();
+    public Klausurenserver(int _port, FileManager fm) {
+        this.teilnahmedaten = new Teilnahmedaten(fm);
         this.port = _port;
     }
 

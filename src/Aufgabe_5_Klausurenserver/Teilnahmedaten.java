@@ -3,11 +3,13 @@ package Aufgabe_5_Klausurenserver;
 import java.util.*;
 
 public class Teilnahmedaten {
-    Map<String, Set<Integer>> teilnahmen;
+    private final Map<String, Set<Integer>> teilnahmen;
+    private final FileManager fm;
 
-    public Teilnahmedaten()
+    public Teilnahmedaten(FileManager _fm)
     {
-        this.teilnahmen = new HashMap<>();
+    	this.fm = _fm;
+        this.teilnahmen = fm.loadFile();
     }
 
     public Set<String> getAllEmails()
@@ -18,7 +20,8 @@ public class Teilnahmedaten {
     public Set<Integer> put(String email, Set<Integer> klausurenIDs)
     {
         Set<Integer> alteTeilnahmen = this.teilnahmen.put(email, klausurenIDs);
-
+        fm.saveFile(teilnahmen);
+    
         return returnTreesetIfNotNull(alteTeilnahmen);
     }
 
@@ -32,7 +35,8 @@ public class Teilnahmedaten {
     public Set<Integer> del(String email)
     {
         Set<Integer> alteTeilnahmen = this.teilnahmen.remove(email);
-
+        fm.saveFile(teilnahmen);
+        
         return returnTreesetIfNotNull(alteTeilnahmen);
     }
 

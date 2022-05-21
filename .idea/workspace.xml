@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed implementation of getAll() by adding removeDoublets method">
+    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Added FileManager to Klausurenserver for saving and loading of data">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Klausurenserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Klausurenserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/ServerThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Teilnahmedaten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Teilnahmedaten.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,34 +36,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/progr/IdeaProjects/Java_2_Praktikum&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "last_opened_file_path": "C:/Users/progr/IdeaProjects/Java_2_Praktikum/src/Aufgabe_5_Klausurenserver"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\progr\IdeaProjects\Java_2_Praktikum\src\Aufgabe_5_Klausurenserver" />
       <recent name="C:\Users\progr\IdeaProjects\Aufgabe_4_Modulbeschreibungen\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\progr\IdeaProjects\Java_2_Praktikum\src\Aufgabe_5_Klausurenserver" />
       <recent name="C:\Users\X1\IdeaProjects\Java-2-Praktikum\src\Aufgabe_5_Klausurenserver" />
       <recent name="C:\Users\X1\IdeaProjects\Java-2-Praktikum\src\Aufgabe_4_Modulbeschreibungen" />
       <recent name="C:\Users\progr\IdeaProjects\Java_2_Praktikum\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KlausurenServer_Test">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Aufgabe_5_Klausurenserver.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe_5_Klausurenserver.Main" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
       <option name="PROGRAM_PARAMETERS" value="2000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aufgabe_5_Klausurenserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe_5_Klausurenserver.Client" />
+      <module name="Aufgabe_4_Modulbeschreibungen" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 2000" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Aufgabe_5_Klausurenserver.*" />
@@ -105,8 +128,8 @@
     </configuration>
     <configuration name="Modulbeschreibungen_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabe_4_Modulbeschreibungen" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Modulbeschreibungen_Test" />
+      <option name="PACKAGE_NAME" value="Aufgabe_4_Modulbeschreibungen" />
+      <option name="MAIN_CLASS_NAME" value="Aufgabe_4_Modulbeschreibungen.Modulbeschreibungen_Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,6 +137,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Client" />
       <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
       <item itemvalue="Application.MainTest" />
       <item itemvalue="JUnit.KlausurenServer_Test" />
@@ -121,10 +145,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.KlausurenServer_Test" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
-        <item itemvalue="Application.MainTest" />
+        <item itemvalue="JUnit.KlausurenServer_Test" />
         <item itemvalue="JUnit.Modulbeschreibungen_Test" />
+        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +277,8 @@
     <MESSAGE value="Fixed stop-function" />
     <MESSAGE value="Finished implementation of Teilnahmedaten, visual fixes in ServerThread and Klausurenserver" />
     <MESSAGE value="Fixed implementation of getAll() by adding removeDoublets method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed implementation of getAll() by adding removeDoublets method" />
+    <MESSAGE value="Added FileManager to Klausurenserver for saving and loading of data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added FileManager to Klausurenserver for saving and loading of data" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_2_Praktikum$Modulbeschreibungen_Test.ic" NAME="Modulbeschreibungen_Test Coverage Results" MODIFIED="1651598952725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

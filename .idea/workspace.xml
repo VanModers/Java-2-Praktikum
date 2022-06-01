@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed implementation of getAll() by adding removeDoublets method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe_4_Modulbeschreibungen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Teilnahmedaten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_5_Klausurenserver/Teilnahmedaten.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
       <recent name="C:\Users\progr\IdeaProjects\Java_2_Praktikum\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KlausurenServer_Test">
+  <component name="RunManager" selected="Application.NavMaze">
     <configuration name="Aufgabe_5_Klausurenserver.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe_5_Klausurenserver.Main" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
@@ -68,12 +66,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GraphicMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe_6_GraphicMaze.GraphicMaze" />
+      <module name="Aufgabe_4_Modulbeschreibungen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aufgabe_6_GraphicMaze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe_4_Modulbeschreibungen.MainTest" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Aufgabe_4_Modulbeschreibungen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe_6_GraphicMaze.NavMaze" />
+      <module name="Aufgabe_4_Modulbeschreibungen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aufgabe_6_GraphicMaze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,28 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Modulbeschreibungen_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Aufgabe_4_Modulbeschreibungen" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Modulbeschreibungen_Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.GraphicMaze" />
+      <item itemvalue="Application.NavMaze" />
       <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
       <item itemvalue="Application.MainTest" />
       <item itemvalue="JUnit.KlausurenServer_Test" />
-      <item itemvalue="JUnit.Modulbeschreibungen_Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NavMaze" />
+        <item itemvalue="Application.GraphicMaze" />
         <item itemvalue="JUnit.KlausurenServer_Test" />
         <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
         <item itemvalue="Application.MainTest" />
-        <item itemvalue="JUnit.Modulbeschreibungen_Test" />
       </list>
     </recent_temporary>
   </component>

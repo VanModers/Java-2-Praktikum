@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Fixed implementation of getAll() by adding removeDoublets method">
+    <list default="true" id="fd1b69e1-52fc-41da-9d22-a8afdc588933" name="Changes" comment="Added solution for exercise 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_6_GraphicMaze/GraphicMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_6_GraphicMaze/GraphicMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe_6_GraphicMaze/NavMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe_6_GraphicMaze/NavMaze.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphicMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aufgabe_6_GraphicMaze.GraphicMaze" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe_5_Klausurenserver.Client" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 2000" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aufgabe_6_GraphicMaze.*" />
+          <option name="PATTERN" value="Aufgabe_5_Klausurenserver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aufgabe_4_Modulbeschreibungen.MainTest" />
+    <configuration name="GraphicMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe_6_GraphicMaze.GraphicMaze" />
       <module name="Aufgabe_4_Modulbeschreibungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aufgabe_4_Modulbeschreibungen.*" />
+          <option name="PATTERN" value="Aufgabe_6_GraphicMaze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +132,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Client" />
       <item itemvalue="Application.GraphicMaze" />
       <item itemvalue="Application.NavMaze" />
       <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
-      <item itemvalue="Application.MainTest" />
       <item itemvalue="JUnit.KlausurenServer_Test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.NavMaze" />
         <item itemvalue="Application.GraphicMaze" />
-        <item itemvalue="JUnit.KlausurenServer_Test" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Aufgabe_5_Klausurenserver.Main" />
-        <item itemvalue="Application.MainTest" />
+        <item itemvalue="JUnit.KlausurenServer_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +167,10 @@
       <workItem from="1652430180922" duration="5495000" />
       <workItem from="1652529320994" duration="5256000" />
       <workItem from="1652792709473" duration="2299000" />
+      <workItem from="1654113952349" duration="507000" />
+      <workItem from="1654118303183" duration="111000" />
+      <workItem from="1654244266181" duration="3032000" />
+      <workItem from="1654593039824" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1651237002239</created>
@@ -242,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652534562698</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added solution for exercise 6">
+      <created>1654109398129</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654109398129</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +283,8 @@
     <MESSAGE value="Fixed stop-function" />
     <MESSAGE value="Finished implementation of Teilnahmedaten, visual fixes in ServerThread and Klausurenserver" />
     <MESSAGE value="Fixed implementation of getAll() by adding removeDoublets method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed implementation of getAll() by adding removeDoublets method" />
+    <MESSAGE value="Added solution for exercise 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for exercise 6" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_2_Praktikum$Modulbeschreibungen_Test.ic" NAME="Modulbeschreibungen_Test Coverage Results" MODIFIED="1651598952725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

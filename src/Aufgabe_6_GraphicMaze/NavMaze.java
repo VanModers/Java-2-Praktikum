@@ -1,7 +1,6 @@
 package Aufgabe_6_GraphicMaze;
 
 import javax.swing.*;
-import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
@@ -18,9 +17,31 @@ public class NavMaze extends JFrame {
     private final char[][] maze = {{' ', 'X', ' ', 'X', ' ', ' '},
             {' ', 'X', ' ', ' ', ' ', 'X'},
             {' ', ' ', 'X', 'X', ' ', 'X'},
-            {'X', ' ', ' ', ' ', ' ', 'X'},
+            {'X', ' ', ' ', 'X', ' ', 'X'},
             {' ', ' ', ' ', 'X', ' ', 'X'},
             {'X', 'X', ' ', ' ', ' ', ' '}};
+
+    /*private char[][] maze =
+            {{' ', 'X', ' ', ' ', ' ', 'X', ' '},
+                    {' ', 'X', ' ', 'X', ' ', ' ', 'X'},
+                    {' ', 'X', ' ', 'X', 'X', ' ', ' '},
+                    {' ', 'X', ' ', 'X', ' ', ' ', 'X'},
+                    {' ', ' ', ' ', 'X', ' ', 'X', ' '},
+                    {'X', ' ', 'X', 'X', ' ', ' ', 'X'},
+                    {'X', ' ', 'X', ' ', ' ', ' ', ' '}};*/
+
+    /*private char[][] maze =
+            {{' ', 'X', ' ', ' ', ' ', 'X', ' ', ' '},
+                    {' ', 'X', ' ', 'X', ' ', ' ', 'X', 'X'},
+                    {' ', 'X', ' ', 'X', 'X', ' ', ' ', ' '},
+                    {' ', 'X', ' ', 'X', ' ', ' ', 'X', 'X'},
+                    {' ', ' ', ' ', 'X', ' ', 'X', ' ', 'X'},
+                    {'X', ' ', 'X', 'X', ' ', ' ', 'X', 'X'},
+                    {'X', ' ', 'X', ' ', ' ', ' ', ' ', ' '},
+                    {'X', ' ', 'X', ' ', ' ', ' ', ' ', ' '}};*/
+
+    private final int mazeWidth = maze[0].length;
+    private final int mazeHeight = maze.length;
 
     public NavMaze() {
         super();
@@ -66,12 +87,12 @@ public class NavMaze extends JFrame {
     }
 
     private void drawMaze() {
-        for (int x = 0; x < 6; x++) {
-            for (int y = 0; y < 6; y++) {
+        for (int x = 0; x < maze[0].length; x++) {
+            for (int y = 0; y < maze.length; y++) {
                 graphic.setColor(Color.black);
-                graphic.drawRect(graphic.width / 6 * x, graphic.height / 6 * y, graphic.width / 6, graphic.width / 6);
+                graphic.drawRect(graphic.width / mazeWidth * x, graphic.height / mazeHeight * y, graphic.width / mazeWidth, graphic.height / mazeHeight);
                 if (maze[y][x] == 'X')
-                    graphic.fillRect(graphic.width / 6 * x, graphic.height / 6 * y, graphic.width / 6, graphic.width / 6);
+                    graphic.fillRect(graphic.width / mazeWidth * x, graphic.height / mazeHeight * y, graphic.width / mazeWidth, graphic.height / mazeHeight);
             }
         }
     }
@@ -81,11 +102,11 @@ public class NavMaze extends JFrame {
         drawMaze();
 
         List<Point> mazeSolution = mazeSolver.getSolution();
-        int size = (int) (graphic.height / 6 * 0.85);
-        int offset = (graphic.height / 6 - size) / 2;
+        int size = (int) (graphic.height / mazeHeight * 0.85);
+        int offset = (graphic.height / mazeHeight - size) / 2;
         Point p = mazeSolution.get(i);
         graphic.setColor(Color.blue);
-        graphic.fillOval(graphic.height / 6 * p.y + offset, graphic.width / 6 * p.x + offset, size, size);
+        graphic.fillOval(graphic.height / mazeHeight * p.y + offset, graphic.width / mazeWidth * p.x + offset, size, size);
 
         graphic.redraw();
     }
